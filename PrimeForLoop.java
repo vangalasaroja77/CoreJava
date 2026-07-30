@@ -1,4 +1,4 @@
-public class PrimeOrNot {
+public class PrimeForLoop {
 
     static void main() {
         int n=25;
